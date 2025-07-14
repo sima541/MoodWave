@@ -1,5 +1,6 @@
 
-# 🎵 MoodMelody — Mood-Based Music Player using AI
+# 🎵 MoodWave
+— Mood-Based Music Player using AI
 
 This is a fun and innovative Next.js app that detects your mood using your webcam and plays music + shows emoji accordingly.
 
